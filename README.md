@@ -1,2 +1,2 @@
 # -100DaysOfUIKit
-Welcome to 100 Days Of UIKit Challenge! 
+ 100 Days Of UIKit Challenge! 
